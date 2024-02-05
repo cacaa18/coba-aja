@@ -1,0 +1,6 @@
+belajar git & github
+git adalah aplikasi vcs (visual control system) yang dimana git dapat mempermudah kita dalam merubah maupun mengelola pekerjaan kita
+github adalah aplikasi cloud untuk menyimpan semua pekerjaan kita dan ini berkolaborasi dengan git
+comment dalam git
+repo
+commit

@@ -4,3 +4,5 @@ github adalah aplikasi cloud untuk menyimpan semua pekerjaan kita dan ini berkol
 comment dalam git
 repo
 commit
+hash
+clone

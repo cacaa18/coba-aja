@@ -5,4 +5,4 @@ comment dalam git
 repo
 commit
 hash
-clone
+
